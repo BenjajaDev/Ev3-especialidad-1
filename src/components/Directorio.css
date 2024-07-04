@@ -1,0 +1,43 @@
+body{
+    background-image: url(../assets/images/fondo.jpg);
+}
+
+.titulo{
+    text-align: center;
+    font-size: 50px;
+    border-radius: 10px;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-image: url(../assets/images/fondoTitulo.jpg);
+}
+
+
+
+.fila{
+    background-color: slateblue;
+    border-radius: 20px;
+    color: white;
+    background-image: url(../assets/images/fondoFormulario.jpg);
+}
+
+.input-text{
+    border-radius: 20px;
+    border: none;
+}
+
+.cuerpoCarta{
+    background-image: url(../assets/images/fondoCuerpoCarta.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tituloCarta{
+    background-color: white;
+    border-radius: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+
